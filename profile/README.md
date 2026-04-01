@@ -6,20 +6,20 @@ Modigrad is an AI-powered productivity ecosystem focused on habit formation, dee
 
 ---
 
-## 🚀 Products
+## Products
 
 ### 📈 Habit Tracker
 Advanced habit tracking with analytics, streak intelligence and offline-first architecture.
 
-### 🎯 Focus Flow
+### Focus Flow
 Intent-based focus sessions with cognitive performance insights.
 
-### 🗓 Daily Planner
+### Daily Planner
 Clean, structured planning designed for clarity and consistency.
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 - Human-centered design  
 - Performance-first architecture  
@@ -30,7 +30,7 @@ No clutter. No noise. Just progress.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - React Native (Expo)
 - TypeScript
